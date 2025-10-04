@@ -110,3 +110,6 @@ Follow the steps below to run the program:
 > Type the file name in the text box and then click the "Start Download" button
 
 1. The file will be available in the downloads folder created in the working directory
+
+# Grade
+![alt text](https://github.com/[IJM217]/[ProjectOne_GradeReceived-100]/blob/[main]/NetworksGrade.png?raw=true)
