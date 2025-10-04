@@ -1,4 +1,4 @@
-# Welcome to our P2P BitTorrent-like System
+# Welcome to my P2P BitTorrent-like System
 
 ## This project simulates a P2P file-sharing system similar to BitTorrent. It allows users to download and upload files using a tracker and seeder.
 
