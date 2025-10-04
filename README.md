@@ -77,6 +77,8 @@
 
 # How to Run the Program:
 
+## Notice: If you want to run over different devices, use a network that doesn't have a firewall as this will block file sharing
+
 #### Packages customtkinter and ttkbootstrap need to be installed in order to run GUI
 
 Follow the steps below to run the program:
